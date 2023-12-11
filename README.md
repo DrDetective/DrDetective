@@ -9,4 +9,5 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrDetective&theme=tokyonight"/></p>
 <p><img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrDetective&theme=tokyonight"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrDetective&theme=tokyonight&layout=compact"/></p>
 <!--shrek-->

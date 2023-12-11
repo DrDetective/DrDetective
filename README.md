@@ -5,11 +5,8 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-## IDE
 <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
-## Database
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<p align='center'><img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrDetective&theme=tokyonight"/></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrDetective&theme=tokyonight"/></p>
+<p><img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrDetective&theme=tokyonight"/></p>
 <!--shrek-->

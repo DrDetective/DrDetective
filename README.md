@@ -7,6 +7,5 @@
 <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrDetective&theme=tokyonight"/></p>
-<p><img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrDetective&theme=tokyonight"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrDetective&theme=tokyonight&layout=compact"/></p>
-<!--shrek-->
+<!--shrek<p><img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrDetective&theme=tokyonight"/></p>-->
